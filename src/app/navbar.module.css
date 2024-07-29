@@ -12,3 +12,8 @@
     gap: 1vh;
 
 }
+
+.nav ul a {
+    color: #fff !important;
+    text-decoration: none !important;
+}
