@@ -11,6 +11,7 @@ export default function Home() {
         </p>
         </div>
         <p>Jupiter is a bot that help you to play with your community, <br /> easy admin, easy roles, easy channels</p>
+        <p>Invite it: https://discord.com/oauth2/authorize?client_id=1264996187354959873&permissions=8&integration_type=0&scope=bot</p>
       </div>
     </div>
   );
