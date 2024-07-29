@@ -66,3 +66,8 @@ body {
   font-size: 1.4vh;
   text-align: center;
 }
+
+a {
+  color: #008cff;
+  text-decoration: underline;
+}

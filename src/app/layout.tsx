@@ -8,11 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 // Define metadata for the application
 export const metadata: Metadata = {
-<<<<<<< HEAD
   title: "Jupiter bot",
-=======
-  title: "Jupiter  bot",
->>>>>>> d8b1b847106f80af433e34e561c8047cfa021b80
   description: "Jupiter bot your next bot",
 };
 
